@@ -182,6 +182,15 @@ a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
+.catalog-item a {
+    color: #000000;
+}
+  
+.catalog-item h3 {
+    font-size: 14px;
+    line-height: 18px;
+}
+
 .main-footer {
     color: #ffffff;
   
