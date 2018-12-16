@@ -212,6 +212,12 @@ a {
     list-style: none;
 }
 
+.pagination-item a {
+    color: #ffffff;
+  
+    background-color: #000000;
+}
+
 .main-footer {
     color: #ffffff;
   
