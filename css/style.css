@@ -153,6 +153,11 @@ a {
     line-height: 30px;
 }
 
+.filter ul {
+    list-style: none;
+    line-height: 18px;
+}
+
 .main-footer {
     color: #ffffff;
   
