@@ -127,6 +127,10 @@ a {
     line-height: 42px;
 }
 
+.breadcrumbs {
+    list-style: none;
+}
+
 .main-footer {
     color: #ffffff;
   
