@@ -29,4 +29,10 @@ a {
 
 .site-navigation,
 .user-navigation {
-  list-style: none;}
+  list-style: none;
+}
+
+.site-navigation a,
+.user-navigation a {
+  color: #ffffff;
+}
