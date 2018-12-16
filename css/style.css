@@ -191,6 +191,10 @@ a {
     line-height: 18px;
 }
 
+.catalog-category {
+    text-transform: none;
+}
+
 .main-footer {
     color: #ffffff;
   
