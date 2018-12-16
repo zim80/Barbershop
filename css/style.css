@@ -131,6 +131,19 @@ a {
     list-style: none;
 }
 
+.breadcrumbs a {
+    color: #000000;
+}
+  
+.breadcrumbs a:hover,
+.breadcrumbs a:focus {
+    text-decoration: underline;
+}
+  
+.breadcrumbs-current {
+    color: #aba9a7;
+}
+
 .main-footer {
     color: #ffffff;
   
