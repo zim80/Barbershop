@@ -361,13 +361,20 @@ a {
 
 html,
 body {
-  min-width: 1122px;
-  min-height: 1750px;
+    min-width: 1122px;
+    min-height: 1750px;
 }
 
 body {
   /* Временно для сетки */
-  background-image: url('../img/barbershop-index-grid.jpg');
-  background-size: 1372px auto;
-  background-repeat: no-repeat;
+    background-image: url('../img/barbershop-index-grid.jpg');
+    background-size: 1372px auto;
+    background-repeat: no-repeat;
+}
+
+.main-header {
+    margin-bottom: 75px;
+  
+    /* Временно для сетки */
+    min-height: 285px;
 }
