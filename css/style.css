@@ -504,3 +504,11 @@ body {
     /* Временно для сетки */
     min-height: 340px;
 }
+
+.main-footer {
+    margin-top: 65px;
+
+    /* Временно для сетки */
+    background: none;
+    min-height: 180px;
+}
