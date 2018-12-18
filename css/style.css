@@ -659,6 +659,13 @@ body {
     min-height: 687px;
 }
 
+.catalog-item {
+    width: 220px;
+  
+    /* Временно для сетки */
+    min-height: 285px;
+}
+
 .main-footer {
     padding: 60px 0;
     margin-top: 65px;
