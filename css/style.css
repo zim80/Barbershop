@@ -402,6 +402,8 @@ body {
     width: 100%;
     margin-bottom: 60px;
 
+    background-color: #000000;
+
     /*Временно для сетки*/
     min-height: 70px;
 }
