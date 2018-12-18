@@ -640,6 +640,10 @@ body {
     min-height: 24px;
 }
 
+.catalog-columns {
+    display: flex;
+}
+
 .filters {
     width: 180px;
   
