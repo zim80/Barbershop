@@ -415,6 +415,10 @@ body {
     background-color: transparent;
 }
   
+.main-navigation-wrapper .container {
+    display: flex;
+}
+
 .site-navigation {
     width: 620px;
     margin: 0;
