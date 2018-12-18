@@ -497,6 +497,7 @@ body {
   
 .inner-page .main-navigation {
     align-items: flex-start;
+    flex-direction: row;
 
     /* Временно для сетки */
     min-height: 70px;
