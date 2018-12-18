@@ -454,7 +454,8 @@ body {
 }
 
 .feature-item {
-
+    width: 300px;
+    
     /* Временно для сетки */
     min-height: 170px;  
 }
