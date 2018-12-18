@@ -506,6 +506,7 @@ body {
 }
 
 .main-footer {
+    padding: 60px 0;
     margin-top: 65px;
 
     /* Временно для сетки */
