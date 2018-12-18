@@ -496,6 +496,7 @@ body {
 }
   
 .inner-page .main-navigation {
+    align-items: flex-start;
 
     /* Временно для сетки */
     min-height: 70px;
