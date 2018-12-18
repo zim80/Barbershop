@@ -452,3 +452,9 @@ body {
     min-height: 170px;
 
 }
+
+.feature-item {
+
+    /* Временно для сетки */
+    min-height: 170px;  
+}
