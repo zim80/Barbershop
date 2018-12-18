@@ -507,6 +507,12 @@ body {
     width: 368px;
     height: 153px;
 }
+
+.inner-page .main-header-logo {
+    width: 111px;
+    height: 24px;
+    padding: 23px 20px;
+}
   
 .main-navigation-wrapper {
     width: 100%;
