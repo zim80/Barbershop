@@ -443,6 +443,7 @@ body {
 }
 
 .features-list {
+    display: flex;
     margin: 0;
     padding: 0;
 
@@ -455,7 +456,7 @@ body {
 
 .feature-item {
     width: 300px;
-    
+
     /* Временно для сетки */
     min-height: 170px;  
 }
