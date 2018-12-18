@@ -467,6 +467,8 @@ body {
 }
 
 .index-columns {
+    display: flex;
+    justify-content: space-between;
     padding: 50px 80px;
 
     /* Временно для сетки */
@@ -483,7 +485,7 @@ body {
 
 .gallery {
     width: 300px;
-    
+
     /* Временно для сетки */
     min-height: 315px;
 }
