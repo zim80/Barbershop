@@ -468,18 +468,22 @@ body {
 
 .index-columns {
     padding: 50px 80px;
-    
+
     /* Временно для сетки */
     background-image: none;
     background-color: transparent;
 }
 
 .news {
+    width: 380px;
+
     /* Временно для сетки */
     min-height: 315px;
 }
 
 .gallery {
+    width: 300px;
+    
     /* Временно для сетки */
     min-height: 315px;
 }
