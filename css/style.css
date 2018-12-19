@@ -140,6 +140,7 @@ input[type="radio"].visually-hidden {
 }
 
 .user-navigation {
+    display: flex;
     max-width: 140px;
 
     background: rgba(234, 255, 45, 0.2);
