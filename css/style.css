@@ -161,6 +161,7 @@ input[type="radio"].visually-hidden {
 }
 
 .user-navigation .login-link {
+    position: relative;
     padding-left: 50px;
     
     background: rgba(234, 255, 45, 0.2);
