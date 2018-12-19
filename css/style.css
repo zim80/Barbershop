@@ -185,6 +185,12 @@ input[type="radio"].visually-hidden {
     opacity: 0.3;
 }
 
+.login-link:hover::before,
+.login-link:focus::before,
+.login-link:active::before {
+    opacity: 1;
+}
+
 .container {
     width: 940px;
     margin: 0 auto;
