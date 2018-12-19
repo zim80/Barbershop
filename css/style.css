@@ -699,6 +699,11 @@ input[type="radio"].visually-hidden {
     text-align: center;
 }
   
+.footer-copyright .button {
+    display: block;
+    margin-right: 0;
+}
+
 .footer-copyright b {
     display: block;
     margin-bottom: 15px;
