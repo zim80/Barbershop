@@ -146,6 +146,9 @@ input[type="radio"].visually-hidden {
 .site-navigation a,
 .user-navigation a {
     display: block;
+    padding: 25px 20px;
+
+    vertical-align: middle;
     color: #ffffff;
 }
 
