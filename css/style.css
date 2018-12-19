@@ -273,6 +273,9 @@ input[type="radio"].visually-hidden {
 
 .news {
     width: 380px;
+
+    background: rgba(0, 128, 0, 0.2);
+    box-shadow: 0 0 0 3px green;
 }
 
 .news-list {
