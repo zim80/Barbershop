@@ -663,7 +663,7 @@ input[type="radio"].visually-hidden {
     width: 141px;
     margin: 0 auto;
     padding: 0;
-    
+
     list-style: none;
 }
   
@@ -675,6 +675,11 @@ input[type="radio"].visually-hidden {
     height: 43px;
   
     background-color: #000000;
+}
+
+.social-button:hover,
+.social-button:focus {
+  background-color: #ffffff;
 }
 
 .footer-copyright {
