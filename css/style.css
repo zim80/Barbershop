@@ -412,6 +412,11 @@ input[type="radio"].visually-hidden {
     border-color: #663d15;
 }
 
+.appointment .button {
+    display: block;
+    width: 100%;
+}
+
 .page-title {
     margin: 0;
     margin-bottom: 15px;
