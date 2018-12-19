@@ -131,6 +131,8 @@ input[type="radio"].visually-hidden {
 }
 
 .site-navigation {
+    display: flex;
+    flex-wrap: wrap;
     width: 620px;
 
     background: rgba(234, 255, 45, 0.2);
