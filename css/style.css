@@ -657,6 +657,8 @@ input[type="radio"].visually-hidden {
 }
   
 .footer-social ul {
+    display: flex;
+    width: 141px;
     list-style: none;
 }
   
