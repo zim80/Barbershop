@@ -341,6 +341,7 @@ input[type="radio"].visually-hidden {
   .gallery-button {
     box-sizing: border-box;
     position: absolute;
+    bottom: 0;
     
     width: 140px;
     margin: 0;
