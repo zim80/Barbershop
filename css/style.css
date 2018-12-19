@@ -172,6 +172,9 @@ input[type="radio"].visually-hidden {
     content: "";
   
     position: absolute;
+    top: 27px;
+    left: 24px;
+    
     width: 16px;
     height: 18px;
     
