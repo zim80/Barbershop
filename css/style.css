@@ -168,6 +168,15 @@ input[type="radio"].visually-hidden {
     box-shadow: inset 0 0 0 2px rgb(234, 255, 45);
 }
 
+.login-link::before {
+    content: "";
+  
+    width: 16px;
+    height: 18px;
+    
+    background-color: #ff0000;
+}
+
 .container {
     width: 940px;
     margin: 0 auto;
