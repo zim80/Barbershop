@@ -221,6 +221,8 @@ input[type="radio"].visually-hidden {
 .feature-item h3 {
     font-size: 30px;
     line-height: 42px;
+
+    background: rgba(255, 45, 82, 0.5);
 }
 
 .index-columns {
