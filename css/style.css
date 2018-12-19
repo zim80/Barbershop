@@ -220,7 +220,7 @@ input[type="radio"].visually-hidden {
   
 .feature-item h3 {
     position: relative;
-    
+
     margin: 0;
     margin-bottom: 60px;
 
@@ -228,6 +228,17 @@ input[type="radio"].visually-hidden {
     line-height: 42px;
 
     background: rgba(255, 45, 82, 0.5);
+}
+
+.feature-item h3::after {
+    content: "";
+  
+    position: absolute;
+  
+    width: 20px;
+    height: 20px;
+  
+    background-color: #ffffff;
 }
 
 .index-columns {
