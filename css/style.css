@@ -661,7 +661,10 @@ input[type="radio"].visually-hidden {
 }
   
 .social-button {
-    color: #ffffff;
+    width: 43px;
+    height: 43px;
+  
+    background-color: #000000;
 }
 
 .footer-copyright {
