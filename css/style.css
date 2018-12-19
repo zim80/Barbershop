@@ -347,6 +347,14 @@ input[type="radio"].visually-hidden {
     margin: 0;
 }
 
+.gallery-button-back {
+    left: 0;
+}
+  
+.gallery-button-next {
+    right: 0;
+}
+
 .contacts {
     width: 380px;
 }
