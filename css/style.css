@@ -145,9 +145,6 @@ input[type="radio"].visually-hidden {
     display: flex;
     flex-wrap: wrap;
     width: 620px;
-
-    background: rgba(234, 255, 45, 0.2);
-    box-shadow: inset 0 0 0 2px rgb(234, 255, 45);
 }
 
 .user-navigation {
@@ -174,9 +171,6 @@ input[type="radio"].visually-hidden {
 .user-navigation .login-link {
     position: relative;
     padding-left: 50px;
-    
-    background: rgba(234, 255, 45, 0.2);
-    box-shadow: inset 0 0 0 2px rgb(234, 255, 45);
 }
 
 .login-link::before {
@@ -224,9 +218,6 @@ input[type="radio"].visually-hidden {
 .feature-item {
     width: 300px;
     text-align: center;
-
-    background: rgba(255, 45, 82, 0.2);
-    box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
   
 .feature-item h3 {
@@ -237,8 +228,6 @@ input[type="radio"].visually-hidden {
 
     font-size: 30px;
     line-height: 42px;
-
-    background: rgba(255, 45, 82, 0.5);
 }
 
 .feature-item h3::after {
@@ -287,9 +276,6 @@ input[type="radio"].visually-hidden {
 
 .news {
     width: 380px;
-
-    background: rgba(0, 128, 0, 0.2);
-    box-shadow: 0 0 0 3px green;
 }
 
 .news-list {
@@ -320,9 +306,6 @@ input[type="radio"].visually-hidden {
     position: relative;
 
     height: 260px;
-
-    background: rgba(255, 45, 82, 0.2);
-    box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
 
 .gallery-content {
@@ -383,9 +366,6 @@ input[type="radio"].visually-hidden {
     width: 140px;
     margin: 0;
     margin-bottom: 10px;
-
-    background: rgba(234, 255, 45, 0.2);
-    box-shadow: inset 0 0 0 2px rgb(234, 255, 45);
 }
 
 .appointment-item label {
