@@ -768,6 +768,13 @@ body {
     min-height: 677px;
 }
 
+.product-info {
+    width: 390px;
+  
+    /* Временно для сетки */
+    min-height: 667px;
+}
+
 .main-footer {
     padding: 60px 0;
     margin-top: 65px;
