@@ -682,6 +682,11 @@ input[type="radio"].visually-hidden {
   background-color: #ffffff;
 }
 
+.social-button:hover path,
+.social-button:focus path {
+  fill: #000000;
+}
+
 .footer-copyright {
     width: 150px;
     margin: 0;
