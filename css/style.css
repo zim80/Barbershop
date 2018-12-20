@@ -802,6 +802,10 @@ input[type="radio"].visually-hidden {
     line-height: 30px;
 }
 
+.product-info .product-text {
+    margin-bottom: 35px;
+}
+
 .product-info .product-price {
     display: flex;
     margin-bottom: 63px;
