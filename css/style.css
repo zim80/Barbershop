@@ -609,6 +609,9 @@ input[type="radio"].visually-hidden {
 }
 
 .catalog-item a {
+    display: flex;
+    flex-direction: column;
+
     color: #000000;
 }
   
