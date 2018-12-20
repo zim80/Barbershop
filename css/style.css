@@ -788,6 +788,11 @@ input[type="radio"].visually-hidden {
     font-size: 24px;
     line-height: 30px;
 }
+
+.product-info .product-price {
+    display: flex;
+    margin-bottom: 63px;
+}
   
 .product-info ul {
     list-style: none;
