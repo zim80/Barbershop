@@ -616,6 +616,8 @@ input[type="radio"].visually-hidden {
 }
   
 .catalog-item h3 {
+    order: 1px;
+    
     font-size: 14px;
     line-height: 18px;
 }
