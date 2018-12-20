@@ -639,6 +639,10 @@ input[type="radio"].visually-hidden {
     margin: 0;
 }
 
+.catalog-item-price {
+    display: flex;
+}
+
 .catalog-item-price b {
     font-size: 14px;
     line-height: 20px;
