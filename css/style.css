@@ -550,6 +550,8 @@ input[type="radio"].visually-hidden {
     content: "";
   
     position: absolute;
+    left: -42px;
+    top: -1px;
   
     width: 16px;
     height: 16px;
