@@ -777,6 +777,7 @@ input[type="radio"].visually-hidden {
 
 .product-info {
     width: 390px;
+    padding-top: 23px;
 }
 
 .product-info p {
