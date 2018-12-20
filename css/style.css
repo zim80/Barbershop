@@ -830,6 +830,8 @@ input[type="radio"].visually-hidden {
 .product-info li::before {
     content: "";
   
+    width: 8px;
+    height: 8px;
 }
 
 .main-footer {
