@@ -783,6 +783,11 @@ input[type="radio"].visually-hidden {
   box-sizing: border-box;
 }
 
+.product-price .button {
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
 .product-info {
     width: 390px;
     padding-top: 23px;
