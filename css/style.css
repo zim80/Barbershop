@@ -675,6 +675,10 @@ input[type="radio"].visually-hidden {
     list-style: none;
 }
 
+.pagination-item {
+    margin-right: 5px;
+}
+
 .pagination-item a {
     color: #ffffff;
   
