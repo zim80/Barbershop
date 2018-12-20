@@ -776,6 +776,10 @@ input[type="radio"].visually-hidden {
     width: 390px;
 }
 
+.product-info p {
+    margin: 0;
+}
+
 .product-info h3 {
     font-size: 24px;
     line-height: 30px;
