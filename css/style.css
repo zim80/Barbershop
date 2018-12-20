@@ -429,7 +429,18 @@ input[type="radio"].visually-hidden {
 
     background: rgba(255, 45, 82, 0.2);
     box-shadow: 0 0 0 3px rgb(255, 45, 82);
-  }
+}
+
+.breadcrumbs li::after {
+    content: "";
+  
+    position: absolute;
+  
+    width: 8px;
+    height: 8px;
+  
+    background-color: #000000;
+}
 
 .breadcrumbs a {
     color: #000000;
