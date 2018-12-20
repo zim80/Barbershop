@@ -769,10 +769,18 @@ input[type="radio"].visually-hidden {
 }
 
 .product-price b {
-    line-height: 20px;
-    text-align: center;
+    width: 112px;
+  padding-top: 13px;
+  padding-left: 36px;
+  padding-right: 36px;
+  padding-bottom: 11px;
   
-    background-color: #e5e5e5;
+  line-height: 20px;
+  text-align: center;
+
+  background-color: #e5e5e5;
+  
+  box-sizing: border-box;
 }
 
 .product-info {
