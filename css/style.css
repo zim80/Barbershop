@@ -1,4 +1,5 @@
 body {
+    min-width: 960px;
     margin: 0;
     padding: 0;
   
@@ -13,25 +14,6 @@ body {
     background-image: url("../img/bg.jpg");
     background-position: top center;
     background-repeat: no-repeat;
-}
-
-.inner-page {
-    color: #000000;
-  
-    background-color: #f9f6f3;
-    background-image: url("../img/pattern-light.jpg");
-    background-position: 0 0;
-    background-repeat: repeat;
-}
-
-.main-header {
-    margin-bottom: 75px;
-}
-
-.inner-page .main-header {
-    margin-bottom: 50px;
-
-    background-color: #000000;
 }
 
 a {
@@ -59,6 +41,25 @@ input[type="radio"].visually-hidden {
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+}
+
+.inner-page {
+    color: #000000;
+  
+    background-color: #f9f6f3;
+    background-image: url("../img/pattern-light.jpg");
+    background-position: 0 0;
+    background-repeat: repeat;
+}
+
+.main-header {
+    margin-bottom: 75px;
+}
+
+.inner-page .main-header {
+    margin-bottom: 50px;
+
+    background-color: #000000;
 }
 
 .button {
@@ -108,6 +109,7 @@ input[type="radio"].visually-hidden {
     flex-direction: row;
 }
 
+
 .main-header-logo {
     order: 2;
     width: 368px;
@@ -151,6 +153,10 @@ input[type="radio"].visually-hidden {
     display: flex;
     max-width: 140px;
 }
+
+.inner-page .user-navigation {
+    margin-left: auto;
+}  
 
 .site-navigation a,
 .user-navigation a {
