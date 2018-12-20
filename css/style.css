@@ -817,8 +817,14 @@ input[type="radio"].visually-hidden {
 .product-info ul {
     margin: 0;
     padding: 0;
-    
+
     list-style: none;
+}
+
+.product-info li {
+    position: relative;
+  
+    padding-left: 23px;
 }
 
 .main-footer {
