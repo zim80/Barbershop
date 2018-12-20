@@ -628,6 +628,8 @@ input[type="radio"].visually-hidden {
 }
 
 .catalog-category {
+    display: block;
+    
     text-transform: none;
 }
 
