@@ -751,6 +751,11 @@ input[type="radio"].visually-hidden {
     box-shadow: 0 0 10px 2px rgba(0, 0, 0, 0.1);
 }
 
+.product-description {
+    display: flex;
+    justify-content: space-between;
+}
+
 .product-article {
     text-align: right;
     color: #aeaeae;
