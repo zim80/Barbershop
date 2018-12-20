@@ -431,6 +431,10 @@ input[type="radio"].visually-hidden {
     box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
 
+.breadcrumbs li:last-child {
+    margin-right: 0;
+}
+
 .breadcrumbs li::after {
     content: "";
   
