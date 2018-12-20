@@ -546,6 +546,17 @@ input[type="radio"].visually-hidden {
     background-position: 0 0;
 }
 
+.filter-input-radio + label::before {
+    content: "";
+  
+    position: absolute;
+  
+    width: 16px;
+    height: 16px;
+    
+    border: 2px solid #000000;
+}
+
 .filter-input:disabled + label {
     color: #000000;
 
