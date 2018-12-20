@@ -494,6 +494,11 @@ input[type="radio"].visually-hidden {
     line-height: 18px;
 }
 
+.filter-option {
+    background: rgba(0, 128, 0, 0.2);
+    box-shadow: 0 0 0 3px green;
+}
+
 .filter-input:hover + label,
 .filter-input:focus + label {
     color: #663d15;
