@@ -827,6 +827,11 @@ input[type="radio"].visually-hidden {
     padding-left: 23px;
 }
 
+.product-info li::before {
+    content: "";
+  
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
