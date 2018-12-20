@@ -577,6 +577,7 @@ input[type="radio"].visually-hidden {
     height: 8px;
   
     background-color: #000000;
+    border-radius: 50%;
 }
 
 .catalog {
