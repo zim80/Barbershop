@@ -756,6 +756,10 @@ input[type="radio"].visually-hidden {
     justify-content: space-between;
 }
 
+.product-description p {
+    width: 200px;
+}
+
 .product-article {
     text-align: right;
     color: #aeaeae;
