@@ -719,6 +719,10 @@ input[type="radio"].visually-hidden {
 }
 
 .product-photo-preview {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    
     list-style: none;
 }
 
