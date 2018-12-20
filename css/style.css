@@ -542,6 +542,9 @@ input[type="radio"].visually-hidden {
     height: 12px;
     
     background-color: green;
+    background-image: url("../img/cross.svg");
+    background-repeat: no-repeat;
+    background-position: 0 0;
 }
 
 .filter-input:disabled + label {
