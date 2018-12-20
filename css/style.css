@@ -684,6 +684,9 @@ input[type="radio"].visually-hidden {
 }
 
 .pagination-item a {
+    display: block;
+    padding: 10px 19px;
+    
     color: #ffffff;
   
     background-color: #000000;
