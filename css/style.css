@@ -566,6 +566,17 @@ input[type="radio"].visually-hidden {
     opacity: 0.5;
 }
 
+.filter-input-radio:checked + label::after {
+    content: "";
+  
+    position: absolute;
+  
+    width: 8px;
+    height: 8px;
+  
+    background-color: #000000;
+}
+
 .catalog {
     width: 700px;
 }
