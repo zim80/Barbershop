@@ -522,6 +522,8 @@ input[type="radio"].visually-hidden {
 .filter-input-checkbox + label::before {
     content: "";
     position: absolute;
+    left: -42px;
+    top: 0;
   
     width: 16px;
     height: 16px;
