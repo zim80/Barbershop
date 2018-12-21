@@ -1255,6 +1255,12 @@ input[type="radio"].visually-hidden {
     border: 2px solid #000000;
 }
 
+.login-checkbox input[type="checkbox"]:focus + .checkbox-indicator {
+    border-color: #663d15;
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+}
+
 .restore {
     color: #000000;
     text-decoration: underline;
