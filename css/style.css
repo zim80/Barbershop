@@ -1179,6 +1179,11 @@ input[type="radio"].visually-hidden {
     line-height: 42px;
 }
 
+.modal-description {
+    margin: 0;
+    margin-bottom: 10px;
+}
+
 .modal h2 {
     font-size: 30px;
     line-height: 42px;
