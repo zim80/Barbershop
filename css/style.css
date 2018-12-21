@@ -969,6 +969,10 @@ input[type="radio"].visually-hidden {
     width: 100%;
 }
 
+.custom-table-1 td {
+    width: 50%;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
