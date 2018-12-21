@@ -929,6 +929,14 @@ input[type="radio"].visually-hidden {
     background: #000000;
 }
 
+.big-heading::before {
+    margin-right: 25px;
+}
+  
+.big-heading::after {
+    margin-left: 25px;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
