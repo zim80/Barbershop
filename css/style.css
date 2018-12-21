@@ -1171,6 +1171,14 @@ input[type="radio"].visually-hidden {
     transform: rotate(-45deg);
 }
 
+.modal-login h2 {
+    margin: 0;
+    margin-bottom: 20px;
+  
+    font-size: 30px;
+    line-height: 42px;
+}
+
 .modal h2 {
     font-size: 30px;
     line-height: 42px;
