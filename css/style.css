@@ -944,6 +944,13 @@ input[type="radio"].visually-hidden {
     list-style: none;
 }
 
+.custom-list-1 li {
+    position: relative;
+  
+    margin-bottom: 15px;
+    padding-left: 20px;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
