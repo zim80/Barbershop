@@ -1275,6 +1275,14 @@ input[type="radio"].visually-hidden {
     background-color: #000000;
 }
 
+.login-checkbox input[type="checkbox"]:checked + .checkbox-indicator::before {
+    transform: rotate(45deg);
+}
+  
+.login-checkbox input[type="checkbox"]:checked + .checkbox-indicator::after {
+    transform: rotate(-45deg);
+}
+
 .restore {
     color: #000000;
     text-decoration: underline;
