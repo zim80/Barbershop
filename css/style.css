@@ -911,9 +911,6 @@ input[type="radio"].visually-hidden {
     font-size: 48px;
     line-height: 48px;
     text-align: center;
-
-    background: rgba(255, 45, 82, 0.2);
-    box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
 
 .big-heading::before,
@@ -983,16 +980,11 @@ input[type="radio"].visually-hidden {
     flex-wrap: wrap;
 
     margin: 60px 0;
-    
-    outline: 3px solid black;
-    outline-offset: 2px;
 }
 
 .inner-column-left,
 .inner-column-right {
     width: 460px;
-    outline: 3px solid red;
-    outline-offset: -2px;
 }
 
 .inner-column-left *:first-child,
