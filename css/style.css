@@ -1215,6 +1215,8 @@ input[type="radio"].visually-hidden {
   
 .login-form .login-help {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .login-icon-user {
