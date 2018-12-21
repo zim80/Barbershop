@@ -891,6 +891,10 @@ input[type="radio"].visually-hidden {
     margin: 14px 0;
 }
 
+.inner-content table {
+    border-collapse: collapse;
+}
+
 .inner-content td {
     padding: 10px 15px;
   
