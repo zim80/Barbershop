@@ -902,6 +902,10 @@ input[type="radio"].visually-hidden {
 }
 
 .inner-content .big-heading {
+    font-size: 48px;
+    line-height: 48px;
+    text-align: center;
+
     background: rgba(255, 45, 82, 0.2);
     box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
