@@ -1231,6 +1231,14 @@ input[type="radio"].visually-hidden {
     background-repeat: no-repeat;
 }
 
+.login-checkbox {
+    position: relative;
+  
+    padding-left: 30px;
+  
+    cursor: pointer;
+}
+
 .login-checkbox:hover,
 .login-checkbox:focus {
     color: #663d15;
