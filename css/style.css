@@ -1120,6 +1120,12 @@ input[type="radio"].visually-hidden {
     background-repeat: repeat;
 }
 
+.modal-login {
+
+    width: 300px;
+    padding: 50px 80px;
+  }
+
 .modal h2 {
     font-size: 30px;
     line-height: 42px;
