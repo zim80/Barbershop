@@ -867,6 +867,14 @@ input[type="radio"].visually-hidden {
     margin-bottom: 75px;
 }
 
+.inner-content h2 {
+    margin-top: 60px;
+    margin-bottom: 30px;
+  
+    font-size: 24px;
+    line-height: 30px;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
