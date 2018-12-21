@@ -883,6 +883,10 @@ input[type="radio"].visually-hidden {
     line-height: 24px;
 }
 
+.inner-content p {
+    margin: 14px 0;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
