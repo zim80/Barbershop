@@ -994,6 +994,11 @@ input[type="radio"].visually-hidden {
     outline-offset: -2px;
 }
 
+.inner-column-left *:first-child,
+.inner-column-right *:first-child {
+    margin-top: 0;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
