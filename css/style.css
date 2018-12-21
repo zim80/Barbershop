@@ -916,6 +916,16 @@ input[type="radio"].visually-hidden {
     box-shadow: 0 0 0 3px rgb(255, 45, 82);
 }
 
+.big-heading::before,
+.big-heading::after {
+    content: "";
+
+    width: 50px;
+    height: 2px;
+
+    background: #000000;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
