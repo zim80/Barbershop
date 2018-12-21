@@ -1161,6 +1161,14 @@ input[type="radio"].visually-hidden {
     background-color: #d0d0d0;
 }
 
+.modal-close::before {
+    transform: rotate(45deg);
+}
+  
+.modal-close::after {
+    transform: rotate(-45deg);
+}
+
 .modal h2 {
     font-size: 30px;
     line-height: 42px;
