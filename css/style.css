@@ -973,6 +973,10 @@ input[type="radio"].visually-hidden {
     width: 50%;
 }
 
+.custom-table-1 td:last-child {
+    text-align: center;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
