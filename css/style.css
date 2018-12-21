@@ -902,6 +902,9 @@ input[type="radio"].visually-hidden {
 }
 
 .inner-content .big-heading {
+    display: flex;
+    align-items: center;
+
     font-size: 48px;
     line-height: 48px;
     text-align: center;
