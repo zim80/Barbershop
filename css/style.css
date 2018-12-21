@@ -920,6 +920,9 @@ input[type="radio"].visually-hidden {
 .big-heading::after {
     content: "";
 
+    flex-grow: 1;
+    flex-shrink: 0;
+
     width: 50px;
     height: 2px;
 
