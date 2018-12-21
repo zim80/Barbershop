@@ -1302,7 +1302,8 @@ input[type="radio"].visually-hidden {
 .modal-map {
     top: 50%;
     left: 50%;
-  
+  display: none;
+
     width: 766px;
     height: 561px;
     margin-top: -280px;
