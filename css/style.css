@@ -987,6 +987,13 @@ input[type="radio"].visually-hidden {
     outline-offset: 2px;
 }
 
+.inner-column-left,
+.inner-column-right {
+    width: 460px;
+    outline: 3px solid red;
+    outline-offset: -2px;
+}
+
 .main-footer {
     margin-top: 65px;
     padding: 60px 0;
