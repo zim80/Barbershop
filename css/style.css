@@ -1114,6 +1114,8 @@ input[type="radio"].visually-hidden {
 .modal {
     position: fixed;
 
+    display: none;
+
     color: #000000;
   
     background-color: #f8f3f0;
@@ -1126,8 +1128,6 @@ input[type="radio"].visually-hidden {
 .modal-login {
     top: 120px;
     left: 50%;
-
-    display: none;
 
     width: 300px;
     margin-left: -230px;
@@ -1302,7 +1302,6 @@ input[type="radio"].visually-hidden {
 .modal-map {
     top: 50%;
     left: 50%;
-  display: none;
 
     width: 766px;
     height: 561px;
