@@ -221,7 +221,10 @@
         });
 
         form.addEventListener("submit", function (evt) {
-            evt.preventDefault();
+            if (!login.value || !password.value) {
+                evt.preventDefault();
+                console.log("Нужно ввести логин и пароль");
+            }
         });
     </script>
 </body>
