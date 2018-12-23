@@ -209,6 +209,15 @@
         var login = popup.querySelector("[name=login]");
         var password = popup.querySelector("[name=password]");
 
+        var isStorageSupport = true;
+        var storage = "";
+
+        try {
+            storage = localStorage.getItem("login");
+        } catch (err) {
+            isStorageSupport = false;
+        }
+
         link.addEventListener("click", function (evt) {
             evt.preventDefault();
             popup.classList.add("modal-show");
@@ -225,7 +234,9 @@
                 evt.preventDefault();
                 console.log("Нужно ввести логин и пароль");
             } else {
-                localStorage.setItem("login", login.value);
+                if (isStorageSupport) {
+                    localStorage.setItem("login", login.value);
+                }
             }
         });
     </script>
