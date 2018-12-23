@@ -224,6 +224,8 @@
             if (!login.value || !password.value) {
                 evt.preventDefault();
                 console.log("Нужно ввести логин и пароль");
+            } else {
+                localStorage.setItem("login", login.value);
             }
         });
     </script>
