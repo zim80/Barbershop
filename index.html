@@ -224,9 +224,10 @@
 
             if (storage) {
                 login.value = storage;
+                password.focus();
+            } else {
+                login.focus();
             }
-
-            login.focus();
         });
 
         close.addEventListener("click", function (evt) {
